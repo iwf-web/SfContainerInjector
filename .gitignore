@@ -1,0 +1,15 @@
+*.diff
+*.err
+*.orig
+*.bak
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+phpunit.xml
+composer.phar
+composer.lock
+/vendor/
+/bin/
